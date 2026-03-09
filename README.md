@@ -2,7 +2,7 @@
 
 **Premium Store** is a modern, blazing-fast, and fully customizable WordPress block theme engineered specifically for eCommerce. Built natively on the **Full Site Editing (FSE)** architecture, it offers total control over your storefront's design directly from the Gutenberg Site Editor without requiring any code modifications.
 
-![Theme Homepage Mockup](./premium-store/screenshot.png) <!-- Note: Assuming screenshot is placed here -->
+![Theme Homepage Mockup](./WordPress-Premium-store-theme/screenshot.png) <!-- Note: Assuming screenshot is placed here -->
 
 ## ✨ Features
 
