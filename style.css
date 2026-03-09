@@ -1,0 +1,21 @@
+/*
+Theme Name: Premium Store
+Theme URI: https://example.com/premium-store
+Author: Aman P
+Author URI: https://example.com
+Description: A modern, lightweight, and fully customizable WordPress block theme optimized for WooCommerce and Full Site Editing. Perfect for premium online stores.
+Requires at least: 6.4
+Tested up to: 6.5
+Requires PHP: 7.4
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: premium-store
+Tags: e-commerce, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, block-styles, responsive-layout, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, woocommerce
+*/
+
+/* 
+ * This theme is completely block-based. 
+ * Most styles are loaded via theme.json and block-styles.
+ * Add minimal custom fallback CSS here if absolutely necessary.
+ */

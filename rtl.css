@@ -1,0 +1,14 @@
+/*
+Theme Name: Premium Store
+Template: premium-store
+*/
+
+/* 
+ * RTL Styles for Premium Store.
+ * FSE themes generally handle RTL well natively via blocks.
+ * Add specific overrides here if needed.
+ */
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
