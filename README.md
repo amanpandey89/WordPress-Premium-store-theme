@@ -2,7 +2,7 @@
 
 **Premium Store** is a modern, blazing-fast, and fully customizable WordPress block theme engineered specifically for eCommerce. Built natively on the **Full Site Editing (FSE)** architecture, it offers total control over your storefront's design directly from the Gutenberg Site Editor without requiring any code modifications.
 
-![Theme Homepage Mockup](./WordPress-Premium-store-theme/screenshot.png) <!-- Note: Assuming screenshot is placed here -->
+![Theme Homepage Mockup](./screenshot.png)
 
 ## ✨ Features
 
@@ -24,26 +24,23 @@
 The repository contains both the main parent theme and a pre-configured child theme.
 
 ```text
-├── premium-store/             # The main parent theme
-│   ├── parts/                 # Reusable template parts (Header/Footer)
-│   ├── templates/             # FSE Block HTML Templates (index, front-page, single)
-│   ├── patterns/              # WordPress Block Patterns (.php)
-│   ├── inc/                   # Core PHP functions (Dashboard, WC integration, OCDI)
-│   ├── theme.json             # Global Styles (Color Palettes, Typography, Layouts)
-│   └── functions.php          # Main theme configurations and enqueues
-│
-└── premium-store-child/       # Ready-to-use boilerplate Child Theme
-    ├── style.css
-    └── functions.php
+.
+├── parts/                 # Reusable template parts (Header/Footer)
+├── templates/             # FSE Block HTML Templates (index, front-page, single)
+├── patterns/              # WordPress Block Patterns (.php)
+├── inc/                   # Core PHP functions (Dashboard, WC integration, OCDI)
+├── theme.json             # Global Styles (Color Palettes, Typography, Layouts)
+└── functions.php          # Main theme configurations and enqueues
 ```
 
 ## 🚀 Installation & Setup
 
 1. **Download:** Clone or download this repository.
-2. **Upload:** Navigate to your WordPress Admin Dashboard -> **Appearance > Themes > Add New** and upload the `premium-store` directory.
-3. **Activate:** Activate **Premium Store** (we recommend activating the Child Theme for your own customizations).
-4. **Required Plugins:** Ensure **WooCommerce** is installed and activated.
-5. **Dashboard:** Navigate to **Appearance > Premium Store** to access the custom theme dashboard for script injection and brand options.
+2. **Rename:** Rename the downloaded folder to `premium-store`.
+3. **Upload:** Navigate to your WordPress Admin Dashboard -> **Appearance > Themes > Add New** and upload the `premium-store` directory (zip).
+4. **Activate:** Activate **Premium Store**.
+5. **Required Plugins:** Ensure **WooCommerce** is installed and activated.
+6. **Dashboard:** Navigate to **Appearance > Premium Store** to access the custom theme dashboard for script injection and brand options.
 
 ## 🛠️ Customizing the Theme
 
